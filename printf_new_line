@@ -1,0 +1,22 @@
+we're going to type a printf statement that also produce another text on a new line.
+in order to have a new line we include a \n, this is seen as an escape a line
+
+I already know how to:
+- Print text to the screen.
+- Start a new line.
+- Fix errors.
+
+we will  e using these statements to print them on a new line
+
+here we go 
+
+#include <stdio.h>
+
+int main(void){
+
+	printf("I already know how to");
+	printf("- Print text to the screen.");
+	printf("- Start a new line.");
+	printf("- Fix errors.");
+	return 0;
+}

@@ -1,0 +1,5 @@
+erros can ccur when wrtting a code
+An error can happen if a semi-collon is forgotton at the end of your printf or any othe funtion.
+what makes programming so easy is the output we get after execution. This can help because it shows us our input errors. the process of fixing the error is called debugging. be careful when constructing your program
+
+

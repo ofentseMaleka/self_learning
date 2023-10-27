@@ -1,0 +1,15 @@
+task to fix: 
+
+#include <stdio.h>
+
+int main(void) {
+    printf ("This is code with errors: ")
+    printf "Fix them!";
+    return 0;
+}
+SO the first thing we are going to look at is the first line of code and try to break down the code to make sure we undersnd.
+the first like of code is #include <stdio.h> which we can agree that it has no fault to it.
+the second line of code is int main(void){ which seems to be ok as well
+the third line of code printf ("This is code with errors: ") seem to be ok as well. except there is a small detail that is missing. can you guess what it is? it is the semi-collon at the end of our printf statement.
+the next line of code include printf "Fix them!";. we can agree that there are some things that are missinghere. first we notice we do not have some round brackets and also the semicollon should come at the end of our printf statement
+everything after that should be ok
